@@ -1,2 +1,3 @@
-# punch-6-meeting
-Examples from the fifth PUNCH Science Meeting.
+# PUNCH 6 Science Meeting SOC Materials
+
+Examples from the sixth PUNCH Science Meeting.
